@@ -27,7 +27,7 @@ global.linkig = 'https://www.instagram.com/reel/Ccx79E0A8Rt/?igshid=YmMyMTA2M2Y=
 global.linkyt = 'https://youtu.be/RnpyRe_7jZA'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
 global.web = 'https://raselcomel.github.io'
-global.web1 = 'https://anu.rasell.repl.co'
+global.web1 = 'https://anu.raselhl.repl.co'
 global.linkgh = 'https://github.com/Lord-official'
 
 global.session = process.env.SESSION_ID|| ''
