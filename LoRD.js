@@ -31,10 +31,10 @@ const fvid = {
                 },
 	 message: { 
                  "videoMessage": { 
-                 "title": `BOBIZ BOT`,
-                 "h": `BOBIZ BOT`,
+                 "title": `Abdallah BOT`,
+                 "h": `Abdallah BOT`,
                  'duration': '99999', 
-                 'caption': `@noureddine_ouafy`,
+                 'caption': ع ــ[ــبـدأللـ]ــه ٱلفآجـ]ـ ـرر $ ،,
                  'jpegThumbnail': global.thumb
                         }
                        }
@@ -862,12 +862,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'قناتي',
-                                    url: 'https://youtube.com/c/NoureddineOuafy'
+                                    url: 'https://youtube.com/channel/UC9pWDF4BVUy4XFRzm8HvoKA'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'انستغرامي',
-                                    url: 'https://instagram.com/noureddine_ouafy'
+                                    url: 'http://instagram.com/abdallah_elsayed08?utm_source=qr'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -901,12 +901,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'قناتي',
-                                    url: 'https://youtube.com/c/NoureddineOuafy '
+                                    url: 'https://youtube.com/channel/UC9pWDF4BVUy4XFRzm8HvoKA '
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'انستغرامي',
-                                    url: 'https://instagram.com/noureddine_ouafy'
+                                    url: 'http://instagram.com/abdallah_elsayed08?utm_source=qr'
                                 }
                             }, {
                                 quickReplyButton: {
